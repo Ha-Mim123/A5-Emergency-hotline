@@ -1,0 +1,20 @@
+.hind {
+  font-family: "Hind Madurai", sans-serif;
+  font-style: normal;}
+  
+.roboto {
+  font-family: "Roboto", sans-serif;
+ 
+}
+.service-nmbr {
+  font-weight: bold;
+  font-family: roboto;
+}
+#card-section h3{
+  font-weight: bold;
+  font-family: hind;
+}
+#card-section p{
+  font-family: roboto;
+}
+
